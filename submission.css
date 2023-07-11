@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f8f8f8;
+    font-family: Arial, sans-serif;
+  }
+  
+  .confirmation {
+    text-align: center;
+  }
+  
+  .confirmation h2 {
+    margin-bottom: 20px;
+  }
+  
+  .confirmation p {
+    margin-bottom: 10px;
+  }
+  
